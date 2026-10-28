@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sber ID / SberCloud is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sber.ru/
+Sber ID / SberCloud is the cloud computing and AI platform of Sberbank, offering a broad portfolio of IaaS and PaaS services such as virtual machines, managed Kubernetes, object storage, databases, and AI tools. Hosted on Tier III data centres in Russia, the platform complies with Russian federal regulations (152‑FZ, 187‑FZ) and provides SLA‑backed availability. It serves enterprises and developers through a public portal, documentation, pricing tables, and a self‑service console for registration and account management.
+
+**Areas:** Cloud · Infrastructure · Computing · Storage · Russian
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sber.ru/)
+- [Documentation](https://cloud.ru/docs)
+- [Getting started](https://developers.sber.ru/docs/ru/gigachat/individuals-quickstart)
+- [Pricing](https://cloud.ru/documents/tariffs/index)
+- [Sign up](https://console.cloud.ru/registration/)
+- [Support](https://cloud.ru/support)
+- [Blog](https://cloud.ru/blog)
+- [Privacy policy](https://developers.sber.ru/docs/ru/policies/privacy-policy)
+
+**APIs profiled:** 18
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sber/](https://apis.io/providers/sber/).
