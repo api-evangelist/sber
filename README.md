@@ -68,6 +68,89 @@ Sber ID / SberCloud is the cloud computing and AI platform of Sberbank, offering
 
 **Areas:** Cloud · Infrastructure · Computing · Storage · Russian
 
+## Sber ID / SberCloud on APIs.io
+
+Everything profiled for Sber ID / SberCloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sber/](https://apis.io/providers/sber/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [Sber API](https://apis.io/apis/sber/sber-api-2/) — Public API documentation for Sber services, listed on the Sber Developers portal.
+- [Sber ID / SberCloud Acceptance Advances API](https://apis.io/apis/sber/sber-acceptance-advances-api/) — The Acceptance Advances API from Sber ID / SberCloud — 3 operation(s) for acceptance advances.
+- [Sber ID / SberCloud Auth API](https://apis.io/apis/sber/sber-auth-api/) — The Auth API from Sber ID / SberCloud — 2 operation(s) for auth.
+- [Sber ID / SberCloud Balance API](https://apis.io/apis/sber/sber-balance-api/) — The Balance API from Sber ID / SberCloud — 1 operation(s) for balance.
+- [Sber ID / SberCloud Client Info API](https://apis.io/apis/sber/sber-client-info-api/) — The Client Info API from Sber ID / SberCloud — 1 operation(s) for client info.
+- [Sber ID / SberCloud Embeddings API](https://apis.io/apis/sber/sber-embeddings-api/) — The Embeddings API from Sber ID / SberCloud — 1 operation(s) for embeddings.
+- [Sber ID / SberCloud Files API](https://apis.io/apis/sber/sber-files-api/) — The Files API from Sber ID / SberCloud — 4 operation(s) for files.
+- [Sber ID / SberCloud Generic Letters API](https://apis.io/apis/sber/sber-generic-letters-api/) — The Generic Letters API from Sber ID / SberCloud — 1 operation(s) for generic letters.
+- [Sber ID / SberCloud Ic API](https://apis.io/apis/sber/sber-ic-api/) — The Ic API from Sber ID / SberCloud — 1 operation(s) for ic.
+- [Sber ID / SberCloud Models API](https://apis.io/apis/sber/sber-models-api/) — The Models API from Sber ID / SberCloud — 2 operation(s) for models.
+- [Sber ID / SberCloud OAuth API](https://apis.io/apis/sber/sber-oauth-api/) — The Oauth API from Sber ID / SberCloud — 2 operation(s) for oauth.
+- [Sber ID / SberCloud Payment Requests API](https://apis.io/apis/sber/sber-payment-requests-api/) — The Payment Requests API from Sber ID / SberCloud — 2 operation(s) for payment requests.
+- [Sber ID / SberCloud Payments API](https://apis.io/apis/sber/sber-payments-api/) — The Payments API from Sber ID / SberCloud — 5 operation(s) for payments.
+- [Sber ID / SberCloud Placement API](https://apis.io/apis/sber/sber-placement-api/) — The Placement API from Sber ID / SberCloud — 10 operation(s) for placement.
+- [Sber ID / SberCloud Room API](https://apis.io/apis/sber/sber-room-api/) — The Room API from Sber ID / SberCloud — 1 operation(s) for room.
+- [Sber ID / SberCloud Sber ID / SberCloud API](https://apis.io/apis/sber/sber-sber-id-sbercloud-api-api/) — The Sber ID / SberCloud API API from Sber ID / SberCloud — 1 operation(s) for sber id / sbercloud api.
+- [Sber ID / SberCloud Tokens API](https://apis.io/apis/sber/sber-tokens-api/) — The Tokens API from Sber ID / SberCloud — 1 operation(s) for tokens.
+- [Sber ID / SberCloud Chat Completions API](https://apis.io/apis/sber/sber-chat-completions-api/) — The Chat Completions API from Sber ID / SberCloud — 2 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Sber ID AsyncAPI placeholder](https://apis.io/asyncapis/sber/partners_sber_ru_asyncapi/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostAuthLoginRequest](https://apis.io/schemas/sber/sber-post-auth-login-request/)
+- [PostChatCompletionsRequest](https://apis.io/schemas/sber/sber-post-chat-completions-request/)
+- [PostChatCompletionsResponse](https://apis.io/schemas/sber/sber-post-chat-completions-response/)
+- [PostEmbeddingsRequest](https://apis.io/schemas/sber/sber-post-embeddings-request/)
+- [PostFilesRequest](https://apis.io/schemas/sber/sber-post-files-request/)
+- [PostV2ChatCompletionsRequest](https://apis.io/schemas/sber/sber-post-v2-chat-completions-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sber Context](https://apis.io/jsonld/sber/sber-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Sber ID / SberCloud API Rules](https://apis.io/rules/sber/sber-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sber Authentication](https://apis.io/security/sber/sber-authentication/)
+- [Sber Domain Security](https://apis.io/security/sber/sber-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Sber Scopes](https://apis.io/scopes/sber/sber-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Sber Plans Pricing](https://apis.io/plans/sber/sber-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Sber Rate Limits](https://apis.io/rate-limits/sber/sber-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -81,8 +164,57 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Blog](https://cloud.ru/blog)
 - [Privacy policy](https://developers.sber.ru/docs/ru/policies/privacy-policy)
 
-**APIs profiled:** 18
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/sber/](https://apis.io/providers/sber/).
+**Kin Score 50.2** — developing · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 60.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 28.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sber/](https://apis.io/providers/sber/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sber ID / SberCloud: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sber/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
